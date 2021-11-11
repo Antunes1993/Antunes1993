@@ -50,6 +50,6 @@ Below is some summary information about my qualifications and knowledge.
    <a href="https://api.whatsapp.com/send?phone=+55021997007066" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
   
-<a target="_blank"><img src="https://github.com/Antunes1993/Antunes1993/blob/main/code2.gif" target="_blank"></a>  
+<a target="_blank"><img src="https://github.com/Antunes1993/Antunes1993/blob/main/code.gif" target="_blank"></a>  
   
   
