@@ -32,13 +32,6 @@ Below is some summary information about my qualifications and knowledge.
   
 📫 Thanks for visiting!
 
-
-<div align="center">
-  <a href="https://github.com/Antunes1993">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antunes1993&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antunes1993&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -57,6 +50,6 @@ Below is some summary information about my qualifications and knowledge.
    <a href="https://api.whatsapp.com/send?phone=+55021997007066" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
   
-  <a href="https://www.linkedin.com/in/leonardo-antunes-dos-santos-b37372a7" target="_blank"><img src="https://imgflip.com/gif/5tkqpv" target="_blank"></a>  
+<a target="_blank"><img src="https://github.com/Antunes1993/Antunes1993/blob/main/code2.gif" target="_blank"></a>  
   
   
