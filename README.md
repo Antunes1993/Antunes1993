@@ -8,7 +8,7 @@ Below is some summary information about my qualifications and knowledge.
 <div>
   <ul>
     <li> 🎓 Graduated in Control and Automation Engineering at CEFET/RJ </li>
-    <li> 🎓  Currently studying a MBA in Computer Engineering at UFRJ. </li>
+    <li> 📚  Currently studying a MBA in Computer Engineering at UFRJ. </li>
      <li> 🎯 Programming Languages 
        <ul>        
          <li>  C# </li>
@@ -18,7 +18,7 @@ Below is some summary information about my qualifications and knowledge.
         <li>  JavaScript </li>    
       </ul>
     </li>
-    <li> Projects I'm interested in 
+    <li> ♟️ Projects I'm interested in 
       <ul>        
          <li>  Computer Vision </li>
          <li>  Website creation. </li>  
