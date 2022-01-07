@@ -2,7 +2,6 @@
 
 My name is Leonardo. 
 -----------------------------------
-I am a fullstack developer always looking for new learning and professional growth. <br>
 Below is some summary information about my qualifications and knowledge.
 
 <div>
