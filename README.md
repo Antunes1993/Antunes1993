@@ -1,5 +1,3 @@
-### Hi there, welcome to my profile! 👋
-
 My name is Leonardo. 
 -----------------------------------
 Below is some summary information about my qualifications and knowledge.
