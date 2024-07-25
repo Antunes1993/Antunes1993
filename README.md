@@ -4,7 +4,7 @@ Below is some summary information about my qualifications and knowledge.
 
 <div>
   <ul>
-    <li> 📚 Graduated in Control and Automation Engineering at CEFET/RJ </li>
+    <li> 📚  Control and Automation Engineering at CEFET/RJ </li>
     <li> 📚  MBA in Computer Engineering at UFRJ. </li>
     <li> 📚  MBA in Data Science at USP-Esalq. </li>
  
