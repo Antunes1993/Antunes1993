@@ -10,11 +10,11 @@ Below is some summary information about my qualifications and knowledge.
     <li> 📚  Control and Automation Engineering at CEFET/RJ </li>
     <li> 📚  MBA in Computer Engineering at UFRJ. </li>
     <li> 📚  MBA in Data Science at USP-Esalq. </li>
- 
-   <li> <i class="fa-solid fa-briefcase"></i>  Web Development with Django/HTML/CSS/JS </li>
-   <li> <i class="fa-solid fa-briefcase"></i>  Machine Learning applied to prediction </li>
-   <li> <i class="fa-solid fa-briefcase"></i>  Mining Digitalization with COMOS </li>
-
+   <br/>
+   <li> 💼  Web Development with Django/HTML/CSS/JS </li>
+   <li> 💼  Machine Learning applied to prediction </li>
+   <li> 💼  Mining Digitalization with COMOS </li>
+  <br/>
    <li> ♟️ Topics of Interest 
       <ul>        
          <li>  Computer Vision </li>
