@@ -1,10 +1,6 @@
 Hello there. 
 -----------------------------------
 Below is some summary information about my qualifications and knowledge.
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-
 <div>
   <ul>
     <li> 📚  Control and Automation Engineering at CEFET/RJ </li>
