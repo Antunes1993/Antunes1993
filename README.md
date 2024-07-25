@@ -1,6 +1,9 @@
 Hello there. 
 -----------------------------------
 Below is some summary information about my qualifications and knowledge.
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
 
 <div>
   <ul>
@@ -8,6 +11,10 @@ Below is some summary information about my qualifications and knowledge.
     <li> 📚  MBA in Computer Engineering at UFRJ. </li>
     <li> 📚  MBA in Data Science at USP-Esalq. </li>
  
+   <li> <i class="fa-solid fa-briefcase"></i>  Web Development with Django/HTML/CSS/JS </li>
+   <li> <i class="fa-solid fa-briefcase"></i>  Machine Learning applied to prediction </li>
+   <li> <i class="fa-solid fa-briefcase"></i>  Mining Digitalization with COMOS </li>
+
    <li> ♟️ Topics of Interest 
       <ul>        
          <li>  Computer Vision </li>
